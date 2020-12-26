@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">finalExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="CreateNewAccount">Create New Account</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error!!</string>
+    <string name="search">Search</string>
+    <string name="likes">Likes</string>
+    <string name="history">History</string>
+    <string name="shared">Shared</string>
+    <string name="emptysearchToast">No Artist Name Entered</string>
+    <string name="trackList">Track List</string>
+    <string name="clearhistory">CLEAR HISTORY</string>
+    <string name="empty"></string>
+</resources>
